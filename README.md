@@ -34,4 +34,3 @@ Daniel Pelnar
 \
 \
 Contributors:
-\
