@@ -1,13 +1,17 @@
 # hangman
 A program written in Python that lets you play the popular Hangman game. For more information about this game, go to this wikipedia page: https://en.wikipedia.org/wiki/Hangman_(game)
 \
+\
 This repository contains:
+\
 1] words.txt  (words that will be used in the game)\
-2] hangman_fce.py  (Python file where all the code resides) \
-\n
+2] hangman_fce.py  (Python file where all the code resides)\
+\
 How to Play the Game:
-In the game, the program provides a secret word randomly chosen from words.txt. The user is guessing the secret word by inputting letters.\n 
-1] Execute hangman_fce.py \n
+\
+In the game, the program provides a secret word randomly chosen from words.txt. The user is guessing the secret word by inputting letters.\
+\
+1] Execute hangman_fce.py\
 2] You will be asked to guess a letter in the console.\n
 3] You have 8 guesses. Guesses are subtracted ONLY for an incorrect guess; if you accidentlly input a letter you have already tried, a guess is not subtracted.\n
 4] You win if you guess the secret word before you have used up all your guesses.\n
