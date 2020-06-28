@@ -10,7 +10,7 @@ This repository contains:
 \
 How to Play the Game:
 \
-In the game, the program provides a secret word randomly chosen from words.txt. The user is guessing the secret word by inputting letters.\
+In the game, the program provides a secret word randomly chosen from words.txt. The user is guessing the secret word by inputting letters.
 \
 1] Execute hangman_fce.py\
 2] You will be asked to guess a letter in the console.\
