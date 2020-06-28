@@ -1,4 +1,4 @@
-# hangman
+# Hangman game
 A program written in Python that lets you play the popular Hangman game. For more information about this game, go to this wikipedia page: https://en.wikipedia.org/wiki/Hangman_(game)
 \
 \
