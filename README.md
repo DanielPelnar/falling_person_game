@@ -5,7 +5,8 @@ A program written in Python that lets you play the popular Hangman game. For mor
 This repository contains:
 \
 1] words.txt  (words that can be used in the game)\
-2] hangman_fce.py  (Python file where all the code resides)
+2] hangman_fce.py  (Python file where all the code resides)\
+3] hangman_game.ipynb (In Jupyter notebook)
 \
 \
 How to Play the Game:
