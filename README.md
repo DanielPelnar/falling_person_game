@@ -4,7 +4,7 @@ A program written in Python that lets you play the popular Hangman game. For mor
 \
 This repository contains:
 \
-1] words.txt  (words that will be used in the game)\
+1] words.txt  (words that can be used in the game)\
 2] hangman_fce.py  (Python file where all the code resides)
 \
 \
@@ -20,7 +20,7 @@ In the game, the program provides a secret word randomly chosen from words.txt. 
 \
 How the Code Works:
 \
-In order to avoid a large chunk of disorganized code, the problem was solved by dividing it into subproblems. A solution to each subproblem was coded and functionalized. In total, there are 6 helping functions inside hangman_fce.py. Then a final function: hangman_fce() was defined which put together all the helping functions.  
+In order to avoid a large chunk of disorganized code, the problem was solved by dividing it into subproblems. A solution to each subproblem was coded and functionalized. In total, there are 6 helping functions. Then a final function: hangman_fce() was defined which put together all the helping functions.  
 \
 \
 Making it Run Faster:
