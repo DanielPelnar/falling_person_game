@@ -34,4 +34,4 @@ Author:
 Daniel Pelnar
 \
 \
-Contributors:
+
