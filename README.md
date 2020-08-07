@@ -35,8 +35,8 @@ Author:
 Daniel Pelnar
 \
 \
-Credit:\
-
+Credit:
+\
 A variation of this game was inspired by MIT assignment from this course:\
 MITx -  6.00.1x Introduction to Computer Science and Programming Using Python
 
